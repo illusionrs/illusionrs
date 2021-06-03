@@ -15,16 +15,16 @@
 
 - 📫 How to reach me **rajeevshukla255@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19t7OjjqPt3mCQ2EvlA_A-suFyNJrvSgB/view?usp=sharing](https://drive.google.com/file/d/19t7OjjqPt3mCQ2EvlA_A-suFyNJrvSgB/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19t7OjjqPt3mCQ2EvlA_A-suFyNJrvSgB/view?usp=sharing)
 
 - ⚡ Fun fact **I am cuber and trying to be a speed cuber.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/illusionrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="illusionrs" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12607354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="12607354" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/illusionrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12607354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="Stack" height="30" width="40" /></a>
 <a href="https://codesandbox.com/illusionrs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="illusionrs" height="30" width="40" /></a>
-<a href="https://fb.com/100005939522729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="100005939522729" height="30" width="40" /></a>
+<a href="https://fb.com/100005939522729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/illusion__rs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="illusion__rs" height="30" width="40" /></a>
 <a href="https://medium.com/rajeevshukla255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="rajeevshukla255" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rajeev255" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajeev255" height="30" width="40" /></a>
