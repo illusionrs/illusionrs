@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
 <h3 align="center">A Full Stack Developer, Cuber, Photographer</h3>
 
-- 🔭 I’m currently working in [DataGrokr](datagrokr.com)
+- 🔭 I’m currently working in [Chargebee](https://www.chargebee.com/)
 
-- 🌱 I’m currently learning **Andriod Develpoment**
-
-- 👯 I’m looking to collaborate on **a SECRET PROJECT**
-
-- 🤝 I’m looking for help with **again with SECRET PROJECT**
+- 🌱 I’m currently learning **HLD**
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
@@ -15,7 +11,7 @@
 
 - 📫 How to reach me **rajeevshukla255@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19t7OjjqPt3mCQ2EvlA_A-suFyNJrvSgB/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1KMOMjseNHPXdbqvrqh26SIb47W_59ysgwa4RK7Bq70Q/edit?usp=drive_link)
 
 - ⚡ Fun fact **I am cuber and trying to be a speed cuber.**
 
